@@ -363,7 +363,7 @@ a h6:hover {
 	width: 100%;
 }
 .section-header .section-title {
-	font-size: 45px;
+	font-size: 30px;
 	background: var(--tj-theme-primary);
 	background: -webkit-gradient(
 		linear,
