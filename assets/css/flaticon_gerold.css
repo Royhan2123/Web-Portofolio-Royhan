@@ -9,20 +9,6 @@
 *         https://www.flaticon.com
 */
 
-@font-face {
-	font-family: "flaticon_gerold";
-	src: url("../fonts/flaticon_gerold.woff2?5df17bbe8cd19f777619d1e48053f6e5")
-			format("woff2"),
-		url("../fonts/flaticon_gerold.woff?5df17bbe8cd19f777619d1e48053f6e5")
-			format("woff"),
-		url("../fonts/flaticon_gerold.eot?5df17bbe8cd19f777619d1e48053f6e5#iefix")
-			format("embedded-opentype"),
-		url("../fonts/flaticon_gerold.ttf?5df17bbe8cd19f777619d1e48053f6e5")
-			format("truetype"),
-		url("../fonts/flaticon_gerold.svg?5df17bbe8cd19f777619d1e48053f6e5#flaticon_gerold")
-			format("svg");
-}
-
 i[class^="flaticon-"]:before,
 i[class*=" flaticon-"]:before {
 	font-family: flaticon_gerold !important;
