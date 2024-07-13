@@ -1011,13 +1011,14 @@ body.loaded {
 	font-size: 17px;
 }
 
+
 .hero-image-box img {
-	border-radius: 30rem;
+	border-radius: 100%;
 	position: relative;
 	border: 2px solid var(--tj-theme-secondary);
 	transition: 0.3s;
-	width: 400px;
-	height: 400px;
+	width: 350px;
+	height: 350px;
 	background-size: cover;
 	object-fit: cover;
 	margin-left: 20px;
@@ -1030,9 +1031,6 @@ body.loaded {
 	transform: rotate(0);
 }
 
-.hero-image-box {
-	
-}
 
 .hero-image-box:before {
 	content: "";
